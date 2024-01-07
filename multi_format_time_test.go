@@ -1,4 +1,4 @@
-package mft
+package multi_format_time
 
 import (
 	"encoding/json"

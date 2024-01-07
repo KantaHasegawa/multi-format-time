@@ -1,4 +1,4 @@
-module github.com/KantaHasegawa/multi-format-time
+module github.com/KantaHasegawa/multi_format_time
 
 go 1.21.1
 
